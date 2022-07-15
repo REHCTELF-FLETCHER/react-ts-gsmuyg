@@ -9,4 +9,4 @@ function SmallButton() {
   );
 }
 
-export {SmallButton,};
+export { SmallButton };
